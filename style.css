@@ -61,6 +61,25 @@
     font-size: 15px;
     padding-top: 15px;
 }
+.banner .rt{
+    border:1px  solid white;
+    margin-top: 10px;
+    font-weight: 500;
+    border-radius: 10px;
+    margin-left: 445px;
+    background-color: white;
+    width: 140px;
+    height: 30px;
+}
+.banner .rt p{
+    padding-top: 4px;
+    text-align: center;
+    color: black;
+    text-decoration: none;
+}
+.banner .rt a{
+    text-decoration: none;
+}
 
 h3 {
     text-align: center;
