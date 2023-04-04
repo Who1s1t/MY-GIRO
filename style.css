@@ -47,7 +47,7 @@
     background-image: url("img/banner.jpg");
     height: 450px;
     
-    /* brands */
+    /* brandsi */
 }
 .banner .t{
     color: white;
@@ -163,7 +163,7 @@ h3 {
     font-weight: 600;
 
 }
-/* clock */
+/* clockg */
 .clock .content div {
     margin-top: 20px;
     width: 232px;
@@ -195,7 +195,7 @@ h3 {
 }
 
 
-/* contacts */
+/* contactso */
 .contacts .o {
     font-size: 18px;
 }
@@ -272,7 +272,7 @@ h3 {
         margin: 1px;
     }
 
-    /* clock */
+    /* clockr*/
     .clock .content {
         justify-content: center;
     }
